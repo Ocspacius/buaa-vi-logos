@@ -1,0 +1,14 @@
+# AI源文件（太大，不传Git）
+*.ai
+# 脚本
+*.jsx
+# Python
+*.py
+# JSON数据
+*.json
+# 日志
+*.txt
+# PDF
+*.pdf
+# 旧版PNG（17:30之前的）
+output/png/**/logo_*_*.png
